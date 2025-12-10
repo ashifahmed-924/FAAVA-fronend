@@ -1,0 +1,38 @@
+{
+  "title": "Masters of Consistency and",
+  "titleHighlight": "Quality.",
+  "emoji": "🤩",
+  "stats": [
+    {
+      "id": 1,
+      "value": "500k+",
+      "label": "Users use this app"
+    },
+    {
+      "id": 2,
+      "value": "20k+",
+      "label": "Users review this app"
+    }
+  ],
+  "searchForm": {
+    "dropdowns": [
+      {
+        "id": 1,
+        "label": "Buy",
+        "value": "Rent"
+      },
+      {
+        "id": 2,
+        "label": "Property Type",
+        "value": "Apartment"
+      },
+      {
+        "id": 3,
+        "label": "Price",
+        "value": "$2000 - $4000"
+      }
+    ],
+    "buttonText": "Search"
+  }
+}
+

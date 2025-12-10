@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "2-Bedroom | Vacant | City View | Chiller on DEWA",
+      "price": "$4,200,000",
+      "location": "Atlantis The Royal Residences, Dubai",
+      "description": "BuyOwn House Properties is delighted to present this large 7-bedroom villa plus",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 2
+    },
+    {
+      "id": 2,
+      "title": "2-Bedroom | Vacant | City View | Chiller on DEWA",
+      "price": "$4,200,000",
+      "location": "Atlantis The Royal Residences, Dubai",
+      "description": "BuyOwn House Properties is delighted to present this large 7-bedroom villa plus",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 2
+    },
+    {
+      "id": 3,
+      "title": "2-Bedroom | Vacant | City View | Chiller on DEWA",
+      "price": "$4,200,000",
+      "location": "Atlantis The Royal Residences, Dubai",
+      "description": "BuyOwn House Properties is delighted to present this large 7-bedroom villa plus",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 2
+    },
+    {
+      "id": 4,
+      "title": "2-Bedroom | Vacant | City View | Chiller on DEWA",
+      "price": "$4,200,000",
+      "location": "Atlantis The Royal Residences, Dubai",
+      "description": "BuyOwn House Properties is delighted to present this large 7-bedroom villa plus",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 2
+    },
+    {
+      "id": 5,
+      "title": "2-Bedroom | Vacant | City View | Chiller on DEWA",
+      "price": "$4,200,000",
+      "location": "Atlantis The Royal Residences, Dubai",
+      "description": "BuyOwn House Properties is delighted to present this large 7-bedroom villa plus",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 2
+    },
+    {
+      "id": 6,
+      "title": "2-Bedroom | Vacant | City View | Chiller on DEWA",
+      "price": "$4,200,000",
+      "location": "Atlantis The Royal Residences, Dubai",
+      "description": "BuyOwn House Properties is delighted to present this large 7-bedroom villa plus",
+      "beds": 2,
+      "baths": 2,
+      "sqft": 2
+    }
+  ]
+}
+

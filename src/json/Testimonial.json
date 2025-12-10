@@ -1,0 +1,56 @@
+{
+  "header": {
+    "title": "Latest offplan projects in",
+    "titleHighlight": "Dubai",
+    "description": "Whether you're selling, renting, buying, or seeking property valuation services, we are here to assist you every step of the way. Contact us today for exceptional real estate solutions."
+  },
+  "cards": [
+    {
+      "id": 1,
+      "icon": "FiActivity",
+      "title": "OUR PHILOSOPHY",
+      "description": "At the core of our business philosophy lie our strengths and competitive advantages that set us apart in the real estate industry. With years of experience in the vibrant Dubai and UAE real estate market, we have..."
+    },
+    {
+      "id": 2,
+      "icon": "MdKeyboardCommandKey",
+      "title": "OUR VISION & MISSION",
+      "description": "Our vision is to offer exclusive after-sales client services which helps our company to create well-established client network in our key markets. Our intention is to be the leading real"
+    },
+    {
+      "id": 3,
+      "icon": "IoTrendingUp",
+      "title": "OUR EXPERTISE",
+      "description": "What truly differentiates us from the competition is our commitment to providing premium and comprehensive after-sales client services. We understand that our clients' journey doesn't end with th.."
+    },
+    {
+      "id": 4,
+      "icon": "FiNavigation",
+      "title": "PROPERTY CONSULTANT",
+      "description": "Buyown House Properties is currently seeking talented individuals to join our thriving team as Property Consultants. As we continue to expand and achieve remarkable success, we are excited to welc.."
+    }
+  ],
+  "stats": [
+    {
+      "id": 1,
+      "label": "PRODUCT",
+      "value": "10,000+"
+    },
+    {
+      "id": 2,
+      "label": "LIKES",
+      "value": "45600"
+    },
+    {
+      "id": 3,
+      "label": "SALE",
+      "value": "576864"
+    },
+    {
+      "id": 4,
+      "label": "CUSTOMERS",
+      "value": "947444"
+    }
+  ]
+}
+

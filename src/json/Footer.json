@@ -1,0 +1,36 @@
+{
+  "contact": {
+    "phone": "+1012 3456 789",
+    "email": "demo@gmail.com",
+    "address": {
+      "line1": "132 Dartmouth Street Boston,",
+      "line2": "Massachusetts 02156 United States"
+    }
+  },
+  "company": {
+    "title": "Company",
+    "links": [
+      "About",
+      "Contact",
+      "Blogs"
+    ]
+  },
+  "legal": {
+    "title": "Legal",
+    "links": [
+      "Privacy Policy",
+      "Terms & Services",
+      "Terms of Use",
+      "Refund Policy"
+    ]
+  },
+  "quickLinks": {
+    "title": "Quick Links",
+    "links": [
+      "Techlabz Keybox",
+      "Downloads",
+      "Forum"
+    ]
+  }
+}
+

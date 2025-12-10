@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure full width and prevent overflow on mobile/tablet */
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+body {
+  min-height: 100vh;
+}
+
+.slick-slide > div {
+    margin: 0 10px;
+}
+
+/* Change all dots */
+.slick-dots li button:before {
+  color: #999 !important;   /* grey */
+  opacity: 0.8;
+}
+
+/* Active dot */
+.slick-dots li.slick-active button:before {
+  color: #FAC03A !important;   /* black */
+  opacity: 1;
+}
