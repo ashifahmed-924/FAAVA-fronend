@@ -60,9 +60,12 @@ export default function Hero() {
               {heroData.searchForm.dropdowns.map((dropdown) => (
                 <div
                   key={dropdown.id}
-                  className="rounded-xl p-0.5 bg-[linear-gradient(135deg,#FBCD61_10.42%,#0E2925_100%)]"
+                  className="rounded-xl p-[1px] flex-shrink-0"
+                  style={{
+                    background: 'linear-gradient(135deg, #FBCD61 10.42%, #0E2925 100%)'
+                  }}
                 >
-                  <div className="bg-white flex items-center gap-4 px-2 py-2 rounded-lg w-full md:w-auto">
+                  <div className="bg-white flex items-center gap-4 px-2 py-2 rounded-[11px] w-full md:w-auto">
                     <div className="flex flex-col leading-tight">
                       <label className="text-xs">{dropdown.label}</label>
                       <span className="font-semibold text-xs">

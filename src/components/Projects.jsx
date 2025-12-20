@@ -39,7 +39,7 @@ export default function Projects() {
             <img
               src={item.img}
               alt={item.title}
-              className="rounded-t-lg w-full h-40 md:h-48 object-cover"
+              className="rounded-lg w-full h-40 md:h-48 object-cover"
             />
             {/* RESPONSIVE: p-3 mobile, p-4 tablet+ */}
             <div className="p-3 md:p-4">
